@@ -6,6 +6,7 @@
 ##### PyCaret (Low-code Modeling): https://colab.research.google.com/drive/1lTYgEdVLk6kWOSX-Zpq-NWruve16QVcN#scrollTo=4KolJhIyGkoi 
 ##### Project Model (UNDERSAMPLED): https://colab.research.google.com/drive/1CH8meJBmWrKKCQoEXNNwPqIPN9Hmq_q_#scrollTo=8agGkOB2Ct0N
 ##### Project Model (Original): https://colab.research.google.com/drive/10uwvqvGxTBLFYYNXLFZiDZZJLJm-gYnn#scrollTo=k6ELNa-PDbfp
+##### Project Model (Deep Learning): https://colab.research.google.com/drive/1CCaK5ifkbH_NnFImtKMYznr4xuAYq1a7#scrollTo=4Hok9is2dyti
 ## Project Finding
 ##### - Seems like with 8 classes, we achieve a higher accuracy
 
